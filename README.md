@@ -4,7 +4,7 @@
 
 1. Clone the repository using HTTPS:
 ```shell
-git clone https://github.com/Amanovth/ManagaRead.git
+git clone https://github.com/Amanovth/MangaRead.git
 
 ```
 
