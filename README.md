@@ -10,7 +10,7 @@ git clone https://github.com/Amanovth/MangaRead.git
 
 2. Go to repository:
 ```shell
-cd ManagaRead/
+cd MangaRead/
 ```
 
 3. Run the start.sh script and createsuperuser:
