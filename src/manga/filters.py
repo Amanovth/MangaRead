@@ -12,4 +12,4 @@ class MangaFilter(django_filters.FilterSet):
 
     class Meta:
         model = Manga
-        fields = ['genre']
+        fields = ['genre', 'title']
